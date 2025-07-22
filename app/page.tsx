@@ -4,7 +4,7 @@ export default function Home() {
       <div className=" p-8 rounded-2xl  w-full max-w-md text-center animate-fade-in">
         <h1 className="text-3xl font-bold mb-4">👋 Platform Under Development</h1>
         <p className="text-brown mb-6">
-          We're building a place where <strong>makers and needers meet</strong>.
+          I&apos;am building a place... <strong>makers and needers meet</strong>.
           Post your idea, find solutions, or build the next big thing.
         </p>
 
