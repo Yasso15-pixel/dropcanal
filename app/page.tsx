@@ -7,7 +7,7 @@ export default function Home() {
         <h1 className="text-3xl font-bold text-black">👋 Platform Under Development</h1>
 
         <p className="text-gray-700">
-          I'm building a place where <strong>makers and needers meet</strong>.
+          I am building a place where <strong>makers and needers meet</strong>.
           Post your idea, find solutions, or build the next big thing.
         </p>
 
