@@ -8,13 +8,7 @@ export default function Home() {
           Post your idea, find solutions, or build the next big thing.
         </p>
 
-        <a
-          href="https://buymeacoffee.com/yourname"
-          target="_blank"
-          className="bg-yellow-400 text-black font-semibold px-5 py-3 rounded-full shadow hover:bg-yellow-300 transition"
-        >
-          ☕ Buy me a coffee
-        </a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="yassin24" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
         <p className="text-xs mt-6 text-brown/70">Made by someone who needed this.</p>
       </div>
